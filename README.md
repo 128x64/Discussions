@@ -8,7 +8,7 @@ We use this space instead of issues to connect with contributors, answer questio
 
 ## 🗺️ How to Get Started
 
-To start a new conversation or find answers, navigate to the **[Discussions Tab](../../discussions)** at the top of this repository.
+To start a new conversation or find answers, navigate to the **[Discussions Tab](https://github.com/orgs/128x64/discussions)** at the top of this repository.
 
 ### 🗂️ Discussion Categories
 
