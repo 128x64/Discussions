@@ -36,7 +36,7 @@ To maintain a healthy, welcoming, and productive environment, please ensure your
 ## 🤝 Contributing
 
 If you want to contribute code, documentation, or bug reports rather than joining a casual chat:
-*   Check out our **[Contributing Guidelines](https://github.com/128x64/.github/blob/main/community/CONTRIBUTING.md)**.
-*   Open an official bug tracking ticket in our **[Issues Tab](../../issues)**.
+*   Check out our **[Contributing Guidelines](https://github.com/128x64/.github/blob/main/CONTRIBUTING.md)**.
+*   Open an official bug tracking ticket in our **[Issues Tab](https://github.com/128x64/Discussions/issues)**.
 
 Thank you for being part of our community! Happy discussing! 🚀
